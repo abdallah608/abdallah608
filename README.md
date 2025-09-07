@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdallah hassan</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate backend developer from Egypt</h3>
 
 - 🔭 I’m currently working on **A lot of project with reactjs**
 
 - 🤝 I’m looking for **internship/job**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React****Node**
 
 - 📫 How to reach me **abdallahhassanshaaban@gmail.com**
 
